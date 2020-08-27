@@ -2,3 +2,23 @@
     width: 200px;
     height: 200px;
 }
+.nav-style{
+    background-color: black;
+    line-height: 50px;
+    margin-top: 10px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin-right: 30px;
+    padding: 5px
+}
+nav a:hover{
+    background-color: #FFE600;
+    color: black;
+    transition: 0.25s;
+    padding-bottom: 11px;
+    padding-top: 5px;
+    text-decoration: none
+}
