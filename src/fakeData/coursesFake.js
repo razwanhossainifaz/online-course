@@ -93,7 +93,7 @@ var courses = [
         "name": "Typescript course for advanced javascript developer",
         "instructor": "Labib KGR",
         "courseDuration": '10h 25min',
-        "amount": 99.99,
+        "amount": 99,
     },
     {
         "id": 13,
