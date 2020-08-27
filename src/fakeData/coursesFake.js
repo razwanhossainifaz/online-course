@@ -1,7 +1,7 @@
 var courses = [
     {
         "id": 1,
-        "img": "https://livecodestream.dev/post/2020-05-30-what-is-python-best-for/featured.jpg",
+        "img": "https://i.imgur.com/kNULtoW.jpg",
         "name": "The Python Mega Course: Build 10 Real World Applications",
         "instructor": "Leanne Graham",
         "courseDuration": '25h 18min',
@@ -9,7 +9,7 @@ var courses = [
     },
     {
         "id": 2,
-        "img": "https://i.ytimg.com/vi/o1IaduQICO0/maxresdefault.jpg",
+        "img": "https://i.imgur.com/JXLmAAQ.jpg",
         "name": "The Complete JavaScript Course 2020: Build Real Projects!",
         "instructor": "Ervin Howell",
         "courseDuration": '27h 55min',
@@ -17,7 +17,7 @@ var courses = [
     },
     {
         "id": 3,
-        "img": "https://www.freelancinggig.com/blog/wp-content/uploads/2020/01/oracle-is-taking-good-care-of-java-post-sun-says-idc-1280x720.jpg",
+        "img": "https://i.imgur.com/EhcI9UI.jpg",
         "name": "Java Programming Masterclass for Software Developers",
         "instructor": "Clementine Bauch",
         "courseDuration": '80h 5min',
@@ -25,7 +25,7 @@ var courses = [
     },
     {
         "id": 4,
-        "img": "https://i.ytimg.com/vi/8PopR3x-VMY/maxresdefault.jpg",
+        "img": "https://i.imgur.com/kc8Hwkj.jpg",
         "name": "C Programming Masterclass for Software Developers",
         "instructor": "Patricia Lebsack",
         "courseDuration": '30h 50min',
@@ -33,7 +33,7 @@ var courses = [
     },
     {
         "id": 5,
-        "img": "https://i.ytimg.com/vi/V3Pm9UD-M-w/maxresdefault.jpg",
+        "img": "https://i.imgur.com/gDRR9WO.jpg",
         "name": "C# for complete beginner",
         "instructor": "Chelsey Dietrich",
         "courseDuration": '18h 20min',
@@ -41,7 +41,7 @@ var courses = [
     },
     {
         "id": 6,
-        "img": "https://i.ytimg.com/vi/bK882S9ESpo/maxresdefault.jpg",
+        "img": "https://i.imgur.com/W2rqi4L.jpg",
         "name": "Complete C++ course , Beginner to Advanced",
         "instructor": "Mrs. Dennis Schulist",
         "courseDuration": '22h 20min',
@@ -49,7 +49,7 @@ var courses = [
     },
     {
         "id": 7,
-        "img": "https://writeabout.tech/wp-content/uploads/2019/07/go-language-1280x720.png",
+        "img": "https://i.imgur.com/LGcizyU.jpg",
         "name": "Go , beginner to advance",
         "instructor": "Kurtis Weissnat",
         "courseDuration": '19h 10min',
@@ -57,7 +57,7 @@ var courses = [
     },
     {
         "id": 8,
-        "img": "https://trotons.com/wp-content/uploads/2019/10/Advantage-and-Disadvantage-of-PHP.jpg",
+        "img": "https://i.imgur.com/w6BSfqb.jpg",
         "name": "Complete PHP course , Beginner to Advanced",
         "instructor": "Nicholas Runolfsdottir V",
         "courseDuration": '23h 59min',
@@ -65,7 +65,7 @@ var courses = [
     },
     {
         "id": 9,
-        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--I8Y5eHva--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://thepracticaldev.s3.amazonaws.com/i/yi8bauuc32zevm74ht4j.png",
+        "img": "https://i.imgur.com/0nd4eVY.jpg",
         "name": "Swift for complete beginner",
         "instructor": "Glenna Reichert",
         "courseDuration": '15h 20min',
@@ -73,7 +73,7 @@ var courses = [
     },
     {
         "id": 10,
-        "img": "https://s15.postimg.cc/lhp9b5nuj/U5dt_W6_Ad91n_YN9sf_YDc_V6_HKFNbg_SPk_U_1680x8400.jpg",
+        "img": "https://i.imgur.com/lxhZXIO.jpg",
         "name": "Ruby for web developing",
         "instructor": "Jhon Reichert",
         "courseDuration": '12h 10min',
@@ -81,7 +81,7 @@ var courses = [
     },
     {
         "id": 11,
-        "img": "https://i.imgur.com/tqNVIfT.jpg",
+        "img": "https://i.imgur.com/o0uSehi.jpg",
         "name": "Complete Angular course for web developing",
         "instructor": "Fida Hossain V",
         "courseDuration": '19h 35min',
@@ -89,7 +89,7 @@ var courses = [
     },
     {
         "id": 12,
-        "img": "https://embedwistia-a.akamaihd.net/deliveries/609a53c94661742ca9df581a2ee932068c530b51.webp?image_crop_resized=1280x720",
+        "img": "https://i.imgur.com/0HOs1Qb.jpg",
         "name": "Typescript course for advanced javascript developer",
         "instructor": "Labib KGR",
         "courseDuration": '10h 25min',
@@ -97,7 +97,7 @@ var courses = [
     },
     {
         "id": 13,
-        "img": "https://3.bp.blogspot.com/-7x5c_f1yzsQ/XHv9FZKHrEI/AAAAAAAADrE/4iGl9Lm6K2odX4SdWbU_RN6gZesx4IaGACEwYBhgL/s1600/html.jpg",
+        "img": "https://i.imgur.com/SlF0dZ7.jpg",
         "name": "HTML course for complete beginner",
         "instructor": "Iltimuas Fotka",
         "courseDuration": '11h 25min',
@@ -105,7 +105,7 @@ var courses = [
     },
     {
         "id": 14,
-        "img": "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg",
+        "img": "https://i.imgur.com/srGsmlD.jpg",
         "name": "CSS course for web designer",
         "instructor": "Shohan Hablu",
         "courseDuration": '16h 15min',
@@ -113,7 +113,7 @@ var courses = [
     },
     {
         "id": 15,
-        "img": "https://stackify.com/wp-content/uploads/2018/09/Learn-Node-1280x720.jpg",
+        "img": "https://i.imgur.com/5AvUdai.jpg",
         "name": "NodeJS from beginner to advance",
         "instructor": "Clementina DuBuque",
         "courseDuration": '9h 15min',

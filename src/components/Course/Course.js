@@ -15,7 +15,7 @@ const Course = (props) => {
                     <p className="card-text amount-style">Amount : {amount}</p>
                 </div>
                 <div className="card-footer">
-                    <button className = "btn-style" onClick = {() => props.handleAddCourse(props.details)}>Enroll Now</button>
+                    <button className = "btn-style" onClick = {() => props.handleAddCourse(props.details)}><span className = "btn-text-style">Enroll Now</span></button>
                 </div>
             </div>
         </div>
