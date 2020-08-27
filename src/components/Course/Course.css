@@ -1,0 +1,30 @@
+.card img{
+    border-radius: 5px;
+}
+.card-style{
+    box-shadow: 10px 10px 20px gray;
+}
+.btn-style{
+    background-color: #f0c14b;
+    color: #111;
+    width: 200px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+.name-style{
+    font-size: 30px;
+}
+.ins-style{
+    font-size: 30px;
+}
+.course-style{
+    font-size: 20px;
+}
+.amount-style{
+    font-size: 40px;
+    font-weight: 800;
+}

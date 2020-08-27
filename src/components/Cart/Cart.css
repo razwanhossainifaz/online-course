@@ -1,0 +1,11 @@
+.cart-style{
+    position: relative;
+    scroll-behavior: inherit;
+}
+.cart-header-style{
+    padding: 20px;
+    font-size: 50px;
+    margin-left: 40px;
+    text-align: center;
+    color: coral;
+}
