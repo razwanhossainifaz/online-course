@@ -5,7 +5,7 @@ var courses = [
         "name": "The Python Mega Course: Build 10 Real World Applications",
         "instructor": "Leanne Graham",
         "courseDuration": '25h 18min',
-        "amount": 50.99,
+        "amount": 50,
     },
     {
         "id": 2,
@@ -29,7 +29,7 @@ var courses = [
         "name": "C Programming Masterclass for Software Developers",
         "instructor": "Patricia Lebsack",
         "courseDuration": '30h 50min',
-        "amount": 80,
+        "amount": 82,
     },
     {
         "id": 5,

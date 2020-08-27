@@ -13,7 +13,7 @@ const Cart = (props) => {
             <h2 className = "cart-header-style">Order Summary</h2>
             <div className = "ml-5">
                 <h1>Added course : {cart.length}</h1>
-                <h3>Total amount : $ {totalAmount}</h3>
+                <h3>Total amount : ${totalAmount}</h3>
             </div>
         </div>
     );

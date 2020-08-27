@@ -12,7 +12,7 @@ const Course = (props) => {
                     <h4 className="card-title name-style">Name : {name}</h4>
                     <p className="card-text ins-style">Instructor : {instructor}</p>
                     <p className="card-text course-style">Course-duration : {courseDuration}</p>
-                    <p className="card-text amount-style">Amount : {amount}</p>
+                    <p className="card-text amount-style">Amount : ${amount}</p>
                 </div>
                 <div className="card-footer">
                     <button className = "btn-style" onClick = {() => props.handleAddCourse(props.details)}><span className = "btn-text-style">Enroll Now</span></button>
